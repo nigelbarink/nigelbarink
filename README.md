@@ -1,4 +1,8 @@
-# Hello Barink.dev
+![Profile Header](./github-header-image.png)
+
+
+🌱 I'm currently learning neovim an Go.
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nigelbarink&show_icons=true&locale=en&layout=compact" alt="nigelbarink" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nigelbarink&show_icons=true&locale=en" alt="nigelbarink" /></p>
