@@ -1,7 +1,9 @@
 ![Profile Header](./github-header-image.png)
 
 
-🌱 I'm currently learning neovim an Go.
+🌱 Pleasure in the job puts perfection in the work. ~ Aristotle
+
+👨🏼‍💻⚙️Diving straight into edge tech!
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nigelbarink&show_icons=true&locale=en&layout=compact" alt="nigelbarink" /></p>
