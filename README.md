@@ -15,5 +15,11 @@
 
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Profile-yellow)](https://huggingface.co/BarinkDev)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-green)](https://github.com/nigelbarink)
+
+
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=358757" style='border:none;'></iframe>
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nigelbarink&label=Profile%20views&color=0e75b6&style=flat" alt="nigelbarink" /> </p>
 
