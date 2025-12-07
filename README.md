@@ -5,10 +5,6 @@
 
 👨🏼‍💻⚙️Diving straight into edge tech!
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nigelbarink&show_icons=true&locale=en&layout=compact" alt="nigelbarink" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nigelbarink&show_icons=true&locale=en" alt="nigelbarink" /></p>
-
 <img src="https://tryhackme-badges.s3.amazonaws.com/0xDAD.png" alt="Your Image Badge" />
 
 ## Languages and Tools
