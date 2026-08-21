@@ -32,7 +32,7 @@
  ---
 
  ## 🧰 Languages and Tools
- [![skill icons](https://skillicons.dev/icons?i=python,go,js,cpp,bash,linux,docker,git,aws,kubernetes,)](https://skillicons.dev)
+ [![skill icons](https://skillicons.dev/icons?i=python,go,js,cpp,cs,bash,linux,docker,git,aws,kubernetes,)](https://skillicons.dev)
 
  A curated set — the tools I actually engineer with day‑to‑day.
 
