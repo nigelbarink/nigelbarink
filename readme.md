@@ -41,14 +41,11 @@
  ## 🏆 Trophies
  [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/0xDAD.png)](https://tryhackme.com/p/0xDAD)  
 
- **Profile views:**
+ ###Profile views:
  
   ![Views](https://komarev.com/ghpvc/?username=nigelbarink&color=blue)
 
- **🔗 links **
+ ## 🔗 links 
 
  [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Profile-yellow)](https://huggingface.co/BarinkDev)
  [![GitHub](https://img.shields.io/badge/GitHub-Profile-green)](https://github.com/nigelbarink)
-
-
- 
