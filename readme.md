@@ -41,7 +41,7 @@
  ## 🏆 Trophies
  [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/0xDAD.png)](https://tryhackme.com/p/0xDAD)  
 
- ###Profile views:
+ ### Profile views:
  
   ![Views](https://komarev.com/ghpvc/?username=nigelbarink&color=blue)
 
