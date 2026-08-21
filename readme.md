@@ -32,8 +32,7 @@
  ---
 
  ## 🧰 Languages and Tools
- <p align="center">
- [![skill icons]("https://skillicons.dev/icons?i=python,go,js,cpp,bash,linux,docker,git,aws, kubernetes,")](https://skillicons.dev)
+ <img src="https://skillicons.dev/icons?i=python,go,js,cpp,bash,linux,docker,git,aws, kubernetes,"/>
 
  A curated set — the tools I actually engineer with day‑to‑day.
 
@@ -41,9 +40,10 @@
 
  ## 🏆 Trophies
  [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/0xDAD.png)](https://tryhackme.com/p/0xDAD)  
+
  **Profile views:** ![Views](https://komarev.com/ghpvc/?username=nigelbarink&color=blue)
 
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nigelbarink" alt="nigelbarink" /></a> </p>
+ **🔗 links **
 
  [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Profile-yellow)](https://huggingface.co/BarinkDev)
  [![GitHub](https://img.shields.io/badge/GitHub-Profile-green)](https://github.com/nigelbarink)
